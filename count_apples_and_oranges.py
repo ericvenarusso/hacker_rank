@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 def countApplesAndOranges(s, t, a, b, apples, oranges):
     house_region = list(range(s, t + 1, 1))
     apples_near_house = 0
