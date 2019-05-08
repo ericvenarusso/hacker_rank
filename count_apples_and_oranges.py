@@ -1,3 +1,8 @@
+"""
+Title: Apple and Orange
+Link: https://www.hackerrank.com/challenges/apple-and-orange/problem
+"""
+
 #!/usr/bin/python
 
 def countApplesAndOranges(s, t, a, b, apples, oranges):
