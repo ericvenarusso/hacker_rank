@@ -1,4 +1,4 @@
-# Hacker Rank
+# Hacker Rank Solutions
 In this repository has my solutions to resolve Hacker Rank challenges.
 
 **Author**: Eric Buzato Venarusso </br>
